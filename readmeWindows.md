@@ -6,6 +6,10 @@
 - Rápido
 - ✨Mágico✨
 
+#### 📌  Compatibilidade
+- Windows 10
+- Windows 11
+
 ## Features
 
 - Abertura de chamado em sua instância GLPI.
@@ -42,10 +46,7 @@ Passo 3
 Na janela de Cliente de API, preencha os campos indicados nos infográficos com os números de 1 a 4, depois clique no botão Re-gerar para gerar um novo código Token e finalize clicando no botão Salvar:
 ![alt text](https://raw.githubusercontent.com/verdanatech/App-Verdanadesk/master/assets/img/passo3.png)
 
-#### 📌  Compatibilidade
-- Windows 10
-- Windows 11
 
  ## Verdanatech Soluções em TI
-[Verdanatech](https://verdanatech.com)
-[Verdanadesk](https://verdanadesk.com)
+- [Verdanatech](https://verdanatech.com)
+- [Verdanadesk](https://verdanadesk.com)
