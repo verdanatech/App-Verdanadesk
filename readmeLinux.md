@@ -1,6 +1,10 @@
-# VerdanadeskApp - v.1.4.16
+# App Verdanadesk - v.1.4.16
 
 É uma aplicação para facilitar a vida de usuários de GLPi, trazendo inovação e uma melhor experiência para o usuário do sistema.
+
+Desenvolvemos este aplicativo com o intuito de melhorar o nível de relacionamento do seu cliente com a Central de Serviços. Onde o usuário pode registrar suas demandas de forma fácil e rápida sem precisar acessar o navegador de internet e receber as notificações direto no seu Desktop. 
+
+O aplicativo está disponível para Windows e Linux.
 
 - Fácil
 - Rápido
