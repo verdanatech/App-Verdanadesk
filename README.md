@@ -1,4 +1,4 @@
-# App Verdanadesk - v.1.5.0
+# App Verdanadesk - v.1.6.0
 
 É uma aplicação para facilitar a vida de usuários de GLPi, trazendo inovação e uma melhor experiência para o usuário do sistema.
 
@@ -25,7 +25,7 @@ O aplicativo está disponível para Windows e Linux.
 
 #### 🔧 Instalação Windows
 
-Para instalação no Windows precisamos de um [MSI](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.5.0/Suporte-VerdanadeskApp.1.5.0.msi) ou [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.5.0/Suporte-VerdanadeskApp.1.5.0.exe) do App.
+Para instalação no Windows precisamos de um [MSI](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.6.0/Suporte-VerdanadeskApp.1.6.0.msi) ou [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.6.0/Suporte-VerdanadeskApp.1.6.0.exe) do App.
 Após o download o processo de instalação é bastante simples basta seguir os passos de instalação do Windows.
 
 ###### Configuração
