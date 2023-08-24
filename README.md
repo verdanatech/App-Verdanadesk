@@ -23,10 +23,8 @@ O aplicativo está disponível para Windows e Linux.
 - Resposta de pesquisa de satisfação. 
 - Autenticação Google e Microsoft.
 
-#### 🔧 Instalação Windows
 
-
-##### Downloads
+## Downloads
 Download [MSI](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.6.0/Suporte-VerdanadeskApp.1.6.0.msi) 
 
 Download [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.6.0/Suporte-VerdanadeskApp.1.6.0.exe) 
@@ -34,7 +32,7 @@ Download [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/
 Após o download o processo de instalação é bastante simples basta seguir os passos de instalação do Windows.
 
 
-##### Instalação
+## Instalação
 Após a instalação, é preciso configurar os dados da instância GLPI.
 
 - Para configuração mais fácil, basta criar um arquivo .bat com a seguinte estrutura.
