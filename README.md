@@ -1,4 +1,4 @@
-# App Verdanadesk - v.1.10.x
+# App Verdanadesk - v.1.12.x
 
 É uma aplicação para facilitar a vida de usuários de GLPi, trazendo inovação e uma melhor experiência para o usuário do sistema.
 
