@@ -25,9 +25,9 @@ O aplicativo está disponível para Windows e Linux.
 
 
 ## Downloads
-Download [MSI](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.13.4/VerdanadeskApp.1.13.4.msi) 
+Download [MSI](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.13.5/VerdanadeskApp.1.13.5.msi) 
 
-Download [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.13.4/VerdanadeskApp.1.13.4.exe) 
+Download [EXE](https://github.com/verdanatech/App-Verdanadesk/releases/download/1.13.5/VerdanadeskApp.1.13.5.exe) 
 
 Após o download o processo de instalação é bastante simples basta seguir os passos de instalação do Windows.
 
